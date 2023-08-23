@@ -2,15 +2,7 @@ package Project5;
 
 import javax.swing.*;
 import java.util.NoSuchElementException.*;
-
-//import lab19.FileMenuHandler;
-
 import java.io.*;
-
-//import project1.TextFileInput;
-//import project1.WordGUI;
-
-
 import java.awt.BorderLayout;
 import java.awt.*;
 import java.io.File;
@@ -19,7 +11,6 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 import java.util.StringTokenizer;
-//Nicole Haller CSCI 212-11E
 import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -28,7 +19,6 @@ import java.awt.Container;
 import java.awt.GridLayout;
 import java.awt.TextArea;
 import java.io.File;
-
 import javax.swing.*;
 
 public final class AisleGUI extends JFrame {
